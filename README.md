@@ -10,7 +10,7 @@ The data used was from this [SQL Course](https://www.lukebarousse.com/sql)  I to
 
 ### Questions I wanted to answer through my SQL queries were:
 
-1. What are the top paying data analyst jobs?
+1. What are the top-paying data analyst jobs?
 2. What skills are required for these top-paying jobs?
 3. What skills are most in demand for data analysts?
 4. Which skills are associated with higher salaries?
@@ -20,12 +20,12 @@ The data used was from this [SQL Course](https://www.lukebarousse.com/sql)  I to
 For my analysis of the data analyst job market, I utilized several key tools:
 
 - **SQL:** The staple for my analysis, allowing me to query the database and identify key insights.
-- **PostgreSQL:** The chosen database management system, ideal for handling the kob posting data.
+- **PostgreSQL:** The chosen database management system, ideal for handling the job posting data.
 - **Visual Studio Code:** My go-to for database management and executing sql queries.
 - **Git and GitHub:** Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking.
 
 # The Analysis
-Each query for this project aimed at investigating specific aspects of the data analyst job market. Here's how I approached each question:
+Each query for this project aimed at investigating specific aspects of the data analyst job market. Here is how I approached each question:
 
 ### 1. Top Paying Data Analyst Jobs
 To identify the highest-paying roles I filtered data analyst positions by average yearly salary and location, focusing on remote jobs. This query highlights the high paying opportunities in the field. 
@@ -58,7 +58,7 @@ limit 10
 
 Here's the breakdown of the top data analyst jobs in 2023:
 
-- **Wide Salary Range:** Top 10 paying data analyst roles span from $184,000 to $650,000, indicating significaant salary potential in the field. 
+- **Wide Salary Range:** Top 10 paying data analyst roles span from $184,000 to $650,000, indicating significant salary potential in the field. 
 - **Diverse employers:** Companies like SmartAsset, Meta, and AT&T are among those offering high salaries, showing a broad interest across different industries.
 - **Job Title Variety:** There's a high diversity in job titles, from Data Analyst to Director of Analytics, reflecting varied roles and specializations within data analytics.
 
